@@ -1,5 +1,7 @@
 # TwitterSwift
 
-This is a demo project to demonstrate the use of Twitter API in Swift.
+* This is a demo project to demonstrate the use of Twitter API in Swift.
 
-Edited Readme file for merge demonstration.
+* Edited Readme file for merge demonstration.
+
+* Edited Readme file as a collaborator.
